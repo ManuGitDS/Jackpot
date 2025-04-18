@@ -12,7 +12,7 @@ let frutas = [
         nombre: "uvas", simbolo: "&#127815", valor: 15
     },
     {
-        nombre: "limones", simbolo: "&#127819", valor: 20
+        nombre: "mhvghcfdczgfh", simbolo: "&#127819", valor: 20
     },
     {
         nombre: "fresas", simbolo: "&#127827", valor: 25
